@@ -1,0 +1,22 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    color:rgb(112, 70, 15);
+    text-align: center;
+}
+
+ul, ol {
+    text-align: center;
+    color:rgb(112, 70, 15);
+}
+
+p {
+    color:rgb(112, 70, 15);
+    text-align: center;
+}
+
+li, p {
+    font-weight: bold;
+}
