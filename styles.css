@@ -15,8 +15,28 @@ ul, ol {
 p {
     color:rgb(112, 70, 15);
     text-align: center;
+    font-weight: bold;
 }
 
-li, p {
+
+
+.recipe-item {
+    padding: 10px;
+    text-align: center;
     font-weight: bold;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.title {
+    border: 5px;
+    border-style: dashed;
+    padding: 5px;
+    text-align: center;
+    color:rgb(112, 70, 15);
+    font-size: 35px;
+    font-weight: bold;
+    box-sizing: border-box;
+    width: 250px;
+    margin: 0 auto;
 }
